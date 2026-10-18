@@ -104,16 +104,6 @@ This tool is for **educational purposes and authorized security research** only.
 
 ---
 
-## Darija summary (ملخص بالدارجة)
-
-أداة فـ الـ terminal كتجمع معلومات **عامة** على دومين، IP، سمية مستخدم، رقم هاتف أو إيميل.
-
-- **التثبيت**: `pip install -r requirements.txt` ومن بعد `python osint_console.py`.
-- **الاستعمال**: كتختار رقم الأمر من القائمة، وكتكتب `help` باش تشوف الشرح.
-- **USERNAME**: كتقدر تكتب الاسم الكامل، والأداة كتجرب بزاف ديال الصيغ فـ 29 موقع، وكتعطيك روابط Facebook و Instagram و X و LinkedIn باش تتأكد بنفسك.
-- **تنبيه**: استعمل PORTSCAN غير على الأجهزة ديالك أو بإذن. وجود حساب بنفس السمية ما كيعني ماشي نفس الشخص.
-
----
 
 ## Author
 
